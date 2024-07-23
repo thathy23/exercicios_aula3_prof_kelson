@@ -1,12 +1,11 @@
 import React from 'react'
-import HookMegaSena from './components/HookMegaSena'
-
+import HookMegaSena from './HookMegaSena'
 
 const App_HookMegaSena = () => {
   return (
     <div>
         <HookMegaSena/>
-    </div>    
+    </div>
   )
 }
 
